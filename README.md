@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Redux and Mongoose**
 
-- 👯 I’m looking to collaborate on [EcoFy:(alternative product management website)](https://ecofy-dfbef.web.app)
+- 👯 Project: [EcoFy:(alternative product management website)](https://ecofy-dfbef.web.app)
 
-- 🤝 I’m looking for help with [ZackY_T.Travel:(tourism management website)](https://southeast-asia-ec5f1.web.app)
+- 🤝 Project: [ZackY_T.Travel:(tourism management website)](https://southeast-asia-ec5f1.web.app)
 
 - 📫 How to reach me **zakariajoarder.bd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R2z8QMU13xupMXqCTiz-7UWmqNS87bSk/view?usp=sharing](https://drive.google.com/file/d/1R2z8QMU13xupMXqCTiz-7UWmqNS87bSk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1R2z8QMU13xupMXqCTiz-7UWmqNS87bSk/view?usp=sharing)
 <hr/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
