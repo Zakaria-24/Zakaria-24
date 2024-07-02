@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Redux and Mongoose**
 
-- ![image](https://github.com/Zakaria-24/Zakaria-24/assets/155288423/9bd5098c-f1b3-41df-8d6f-23f8bd8af5fa)Project: [EcoFy: alternative product management website](https://ecofy-dfbef.web.app)
+- ![image](https://github.com/Zakaria-24/Zakaria-24/assets/155288423/aac3a01d-a5b6-4f5e-95d4-f72344794f61)Project: [EcoFy: alternative product management website](https://ecofy-dfbef.web.app)
 
-- ![image](https://github.com/Zakaria-24/Zakaria-24/assets/155288423/178947f2-2478-412b-8c8d-49cb69448093)Project: [ZackY_T.Travel: tourism management website](https://southeast-asia-ec5f1.web.app)
+- ![image](https://github.com/Zakaria-24/Zakaria-24/assets/155288423/5a2b90e9-1432-4804-91de-faf64e9d5d7d)Project: [ZackY_T.Travel: tourism management website](https://southeast-asia-ec5f1.web.app)
 
 - 📫 How to reach me **zakariajoarder.bd@gmail.com**
 
